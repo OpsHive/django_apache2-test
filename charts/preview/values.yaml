@@ -17,4 +17,4 @@ preview:
     pullPolicy: IfNotPresent
     repository: null
     tag: null
-  namespace: jx-jango-app
+  namespace: jx-django-app
